@@ -1,0 +1,15 @@
+#demoFont {
+font-family: 'Great Vibes', cursive;
+font-size: 22px;
+letter-spacing: -0.4px;
+word-spacing: 2.8px;
+color: #000000;
+font-weight: normal;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: italic;
+font-variant: normal;
+text-transform: none;
+bgColor: "lightblue"
+
+}
+
